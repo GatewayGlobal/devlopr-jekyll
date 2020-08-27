@@ -1,6 +1,6 @@
 ---
-identifier: john-doe-tshrirts
-name: John Doe Tshirt
+identifier: john-doe-tshrirt
+name: John Doe Tshirts
 price: 50
 image: /assets/img/products/product1.jpg
 ---
